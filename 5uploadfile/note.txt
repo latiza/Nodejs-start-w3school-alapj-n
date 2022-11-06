@@ -1,0 +1,4 @@
+Van egy nagyon jó modul a fájlfeltöltésekhez, az úgynevezett "Formidable".
+A Formidable modul letölthető és telepíthető az NPM segítségével:
+telepíteni kell:
+npm install formidable

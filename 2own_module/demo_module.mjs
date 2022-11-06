@@ -9,7 +9,7 @@ http.createServer(function (req, res) {
 }).listen(8080);
 */
 import { createServer } from 'http';
-import { myDateTime } from './myfirstmodule';
+import { myDateTime } from './myfirstmodule.mjs';
 
 
 createServer(function (req, res) {
