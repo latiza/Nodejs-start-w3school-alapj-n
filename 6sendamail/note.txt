@@ -1,0 +1,13 @@
+A Nodemailer egy nyílt forráskódú NPM-csomag, amely segít leegyszerűsíteni az e-mailek küldését SMTP-n keresztül a Node.js alkalmazásban.
+A Nodemailer modul megkönnyíti az e-mailek küldését a számítógépről.
+A Nodemailer modul az npm segítségével tölthető le és telepíthető:
+npm install nodemailer
+
+az összes feladat gmail-re van, de azzal már nem fog menni, mert 
+annyi biztonsági beállítása van, hogy macerás lenne kikapcsolni, 
+ráadásul 2022 májusától már nem is lehet
+
+Ha nincs saját domain-ed, tesztelésre szuper: 
+https://ethereal.email/create
+regizni sem kell :-) csak bemásolni az adatokat.
+Az Ethereal Email nevű szolgáltatás, amely ál-SMTP-szerverként működik, és lehetővé teszi teszt e-mailek küldését és olvasását. 
